@@ -5,11 +5,16 @@ To write a python program to find the distance two 2 points
 
 
 ## ALGORITHM:
-## Step 1:  Import the math module
-## Step 2:  Get the first point(x1,y1) and second point(x2,y2) in form of list.
-## step 3:  Substitute the values in the distance formula  ![formula](/formula.JPG)
-## Step 4:  Calculate the distance using the sqrt() function.
-## step 5:  Print the result.
+## Step 1:  
+Import the math module
+## Step 2:  
+Get the first point(x1,y1) and second point(x2,y2) in form of list.
+## step 3: 
+ Substitute the values in the distance formula  ![formula](/formula.JPG)
+## Step 4: 
+ Calculate the distance using the sqrt() function.
+## step 5:  
+Print the result.
 
 ### PROGRAM:
 ```
