@@ -29,7 +29,6 @@ print('{:.2f}'.format(d))
 
 ```
 ### OUTPUT:
-
 ![DISTANCE-BETWEEN-TWO-POINTS](ouput.png)
 
 ### RESULT:
