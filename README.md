@@ -30,7 +30,7 @@ print('{:.2f}'.format(d))
 ```
 ### OUTPUT:
 
-![DISTANCE-BETWEEN-TWO-POINTS](ouput1.png)
+![DISTANCE-BETWEEN-TWO-POINTS](ouput.png)
 
 ### RESULT:
 Thus the distance between two points is calculated using python program.
