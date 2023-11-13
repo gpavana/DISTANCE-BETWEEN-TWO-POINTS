@@ -1,8 +1,7 @@
 # EXP 1C:DISTANCE-BETWEEN-TWO-POINTS
-
+## DATE:23.08.2023
 ## AIM:
 To write a python program to find the distance two 2 points
-
 ## ALGORITHM:
 ## Step 1:  
 Import the math module
@@ -14,7 +13,6 @@ Get the first point(x1,y1) and second point(x2,y2) in form of list.
  Calculate the distance using the sqrt() function.
 ## step 5:  
 Print the result.
-
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
@@ -26,10 +24,8 @@ l1=[4,2]
 l2=[10,6]
 d=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print('{:.2f}'.format(d))
-
 ```
 ### OUTPUT:
 ![DISTANCE-BETWEEN-TWO-POINTS](ouput.png)
-
 ### RESULT:
 Thus the distance between two points is calculated using python program.
